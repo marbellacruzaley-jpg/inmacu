@@ -1,0 +1,689 @@
+{
+  "header": {
+    "logoEmoji": "🏛️",
+    "logoSub": "Parroquia",
+    "logoName": "Parroquia de la Inmaculada Asunción de Maria",
+    "logoCity": "Morelia, Mich",
+    "donateText": "✦ Donaciones / Diezmo"
+  },
+  "hero": {
+    "bgImage": "https://images.unsplash.com/photo-1548625149-720754860eea?w=1800&q=90",
+    "massTitle": "Próximas Misas",
+    "massDayLabel": "Domingo",
+    "massTimes": [
+      "8:00 AM",
+      "11:00 AM",
+      "1:00 PM"
+    ],
+    "massCtaText": "Reservar lugar",
+    "confessionTitle": "Confesiones",
+    "confessionDayLabel": "Sábado",
+    "confessionTime": "4:00 – 5:00 PM",
+    "confessionCtaText": "Ver más"
+  },
+  "newsStrip": {
+    "title": "Noticias parroquiales",
+    "subtitle": "Noticias"
+  },
+  "news": {
+    "items": [
+      {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=700&q=85",
+        "category": "Eventos",
+        "isLive": false,
+        "title": "Concierto de Navidad este Sábado",
+        "text": "Una velada musical especial en el templo. Entrada libre para toda la familia parroquial."
+      },
+      {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=700&q=85",
+        "category": "Formación",
+        "isLive": false,
+        "title": "Nuevos Horarios de Catequesis",
+        "text": "Inscripciones abiertas. Nuevos grupos para niños, jóvenes y adultos esta temporada."
+      },
+      {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1543342384-1f1350e27861?w=700&q=85",
+        "category": "Liturgia",
+        "isLive": true,
+        "title": "Transmisión: Santa Misa de Hoy",
+        "text": "Únete a la comunidad parroquial desde donde estés."
+      }
+    ]
+  },
+  "historiaTeaser": {
+    "image": "https://images.unsplash.com/photo-1605640840605-14ac1855827b?w=900&q=85",
+    "yearBadge": "1943",
+    "overline": "Nuestra historia",
+    "title": "Más de <em>ocho décadas</em><br>de comunidad y fe",
+    "paragraphs": [
+      "Desde una <strong>humilde ermita fundada en 1943</strong> en la Colonia Vasco de Quiroga, nuestra parroquia ha crecido hasta convertirse en uno de los recintos espirituales más significativos de Toluca, sirviendo con devoción a miles de familias de la comunidad.",
+      "Conoce la historia de sus párrocos fundadores, la erección canónica de 1976, la gran remodelación del año 2000 y el rico patrimonio espiritual que la distingue."
+    ],
+    "timelinePreview": [
+      {
+        "year": "1943",
+        "label": "Fundación de la Ermita"
+      },
+      {
+        "year": "1976",
+        "label": "Erección Parroquial"
+      },
+      {
+        "year": "2000",
+        "label": "Gran Remodelación"
+      }
+    ],
+    "btnText": "Leer Historia Completa"
+  },
+  "grupos": {
+    "sectionPre": "Comunidad & Servicio",
+    "sectionTitle": "Grupos y Movimientos",
+    "items": [
+      {
+        "id": 1,
+        "icon": "✝️",
+        "name": "Catequesis"
+      },
+      {
+        "id": 2,
+        "icon": "🔥",
+        "name": "Pastoral Juvenil"
+      },
+      {
+        "id": 3,
+        "icon": "❤️",
+        "name": "Cáritas"
+      },
+      {
+        "id": 4,
+        "icon": "🏆",
+        "name": "Ministros"
+      }
+    ]
+  },
+  "diocesis": {
+    "blocks": [
+      {
+        "id": 1,
+        "icon": "📰",
+        "title": "Periódico Diocesano Digital",
+        "text": "La voz oficial de nuestra Diócesis de Toluca para la comunidad",
+        "linkText": "Leer última edición",
+        "linkHref": "#"
+      },
+      {
+        "id": 2,
+        "icon": "📋",
+        "title": "Comunicados Oficiales de la Diócesis",
+        "text": "Documentos pastorales, resoluciones y comunicados oficiales",
+        "linkText": "Ver comunicados",
+        "linkHref": "#"
+      }
+    ]
+  },
+  "intenciones": {
+    "sectionPre": "Comunión espiritual",
+    "sectionTitle": "Intenciones de Misa",
+    "cardTitle": "Módulo de Intenciones",
+    "cardSubtitle": "Busca o registra una intención de misa en línea"
+  },
+  "footer": {
+    "logoEmoji": "🏛️",
+    "logoName": "Santa María de la Asunción",
+    "logoSub": "Parroquia · Toluca",
+    "description": "Diócesis de Toluca — Estado de México.\nSirviendo a la comunidad con fe,\nesperanza y caridad.",
+    "address": "Centro, Toluca",
+    "phone": "(722) 000-0000",
+    "email": "parroquia@ejemplo.mx",
+    "hours": "Lun–Vie 9:00–18:00",
+    "copyright": "© 2025 Parroquia Santa María de la Asunción – Toluca. Todos los derechos reservados."
+  },
+  "histHero": {
+    "bgImage": "https://images.unsplash.com/photo-1605640840605-14ac1855827b?w=1800&q=90",
+    "overline": "Parroquia Santa María de la Asunción · Toluca",
+    "title": "Nuestra <em>Historia</em>",
+    "subtitle": "Más de ocho décadas de fe, comunidad y servicio",
+    "tagline": "Desde una ermita humilde hasta un templo vivo"
+  },
+  "histIntro": {
+    "image": "https://images.unsplash.com/photo-1548625149-720754860eea?w=800&q=85",
+    "imageCaption": "Colonia Vasco de Quiroga · Toluca",
+    "overline": "Nuestros orígenes",
+    "title": "Una ermita, una <em>comunidad</em>, una fe",
+    "paragraphs": [
+      "La <strong>Colonia Vasco de Quiroga</strong> fue una de las primeras colonias de la ciudad. Desde su fundación en <strong>1907</strong>, fue un asentamiento integrado por familias de extracción humilde y clase trabajadora. Su propietario, <strong>Dn. Rafael Elizarrarás</strong>, donó terrenos para la construcción de la Iglesia y la Escuela.",
+      "Sus límites: al norte la colonia Isaac Arriaga; al sur la colonia Chapultepec Norte; al oriente la colonia Eréndira; y al poniente el centro de la ciudad. Sus calles llevan nombres de oficios en homenaje a las tradiciones de Don Vasco de Quiroga: <em>Tejedores de Aranza, Curtidores de Teremendo, Colcheros de Parangaricutiro.</em>",
+      "Después de la fundación de la colonia, se comenzó a edificar una <strong>pequeña ermita</strong> en el lugar donde se ubica el actual recinto; el padre Julián Cortés, colaborador del templo de las Monjas, acudía a esta comunidad a impartir los sacramentos."
+    ]
+  },
+  "timeline": {
+    "overline": "Cronología histórica",
+    "title": "Más de ocho décadas de historia",
+    "items": [
+      {
+        "id": 1,
+        "year": "1907",
+        "icon": "🏘️",
+        "side": "right",
+        "title": "Fundación de la Colonia",
+        "text": "La colonia <strong>Vasco de Quiroga</strong> es fundada como uno de los primeros asentamientos en la periferia de la ciudad. Dn. Rafael Elizarrarás dona terrenos para la iglesia y la escuela, sentando las bases de la futura comunidad parroquial.",
+        "image": ""
+      },
+      {
+        "id": 2,
+        "year": "1943",
+        "icon": "⛪",
+        "side": "left",
+        "title": "Fundación de la Ermita",
+        "text": "Con el objetivo de evangelizar a la comunidad, se funda la <strong>ermita de la Inmaculada Concepción</strong>. El padre <strong>Julián Cortés</strong>, colaborador del templo de las Monjas, acude periódicamente a impartir los sacramentos a los feligreses de la joven colonia.",
+        "image": "https://images.unsplash.com/photo-1543342384-1f1350e27861?w=600&q=80"
+      },
+      {
+        "id": 3,
+        "year": "1950",
+        "icon": "✝️",
+        "side": "right",
+        "title": "Llega el P. Francisco Sierra",
+        "text": "El <strong>29 de abril de 1950</strong> llega el nuevo capellán, el <strong>P. Francisco Sierra Nieto</strong>, quien se convertirá en la figura más determinante en la historia de la comunidad. Su presencia marcará <em>41 años</em> de gestión y construcción del tejido espiritual de la parroquia.",
+        "image": ""
+      },
+      {
+        "id": 4,
+        "year": "1967",
+        "icon": "🕊️",
+        "side": "left",
+        "title": "Adscripción al Santo Niño de la Salud",
+        "text": "El <strong>29 de noviembre de 1967</strong>, cuando se erige la Parroquia del <em>Santo Niño de la Salud</em>, la capilla de la Inmaculada pasa a pertenecer a esta nueva parroquia. La comunidad colabora activamente en los festejos del Santo Niño y en la catequesis de comunidades extraurbanas.",
+        "image": ""
+      },
+      {
+        "id": 5,
+        "year": "1976",
+        "icon": "🏛️",
+        "side": "right",
+        "title": "Erección Canónica de la Parroquia",
+        "text": "El <strong>11 de junio de 1976</strong>, el Sr. Arzobispo <strong>Estanislao Alcaraz</strong> erige canónicamente la parroquia, siendo el P. Francisco Sierra Nieto su <strong>primer párroco</strong>. Sus límites quedan definidos: al norte Av. México; al sur Av. Acueducto; al oriente Av. Olivares; al poniente Av. Tata Vasco.",
+        "image": "https://images.unsplash.com/photo-1533050487297-09b450131914?w=600&q=80"
+      },
+      {
+        "id": 6,
+        "year": "1991",
+        "icon": "📜",
+        "side": "left",
+        "title": "Un Nuevo Párroco",
+        "text": "Tras el fallecimiento del P. Francisco Sierra, después de <strong>41 años</strong> de entrega a esta comunidad, es nombrado el <strong>P. José Reyes Flores Díaz</strong>, quien toma posesión el <em>17 de junio de 1991</em>. Le correspondería llevar a cabo la gran obra de renovación que la comunidad esperaba.",
+        "image": ""
+      },
+      {
+        "id": 7,
+        "year": "2000",
+        "icon": "🔨",
+        "side": "right",
+        "title": "Gran Remodelación y Ampliación",
+        "text": "El P. José Reyes emprende el <strong>conjunto pastoral</strong> que la comunidad necesitaba: templo ampliado, <em>notaría parroquial, casa parroquial, salones pastorales, espacio para la cenaduría y estacionamiento</em>. La fachada adopta su inusual forma de <strong>hipérbola</strong>, que evoca el manto protector de la Virgen María.",
+        "image": ""
+      },
+      {
+        "id": 8,
+        "year": "2014",
+        "icon": "✨",
+        "side": "left",
+        "title": "Llega el Cristo de la Inmaculada",
+        "text": "En <strong>2014</strong> llega el <em>Cristo de la Inmaculada</em>, pieza de gran devoción. Representa a un <strong>Cristo vivo</strong>, sin llagas. Elaborado en <em>caña de azúcar</em> y pintado con la técnica del <strong>maque</strong> con pigmentos naturales, siguiendo la tradición artesanal michoacana.",
+        "image": ""
+      }
+    ]
+  },
+  "quote": {
+    "text": "Era afirmación tradicional y universal la plena santidad de María, su total impecabilidad. María no pecó personalmente, porque fue santificada en el seno de su madre, pero no en el primer instante, sino en el segundo.",
+    "attribution": "— Santo Tomás de Aquino y San Buenaventura"
+  },
+  "allegory": {
+    "overline": "Tradición y símbolo",
+    "title": "La Alegoría del <em>Dragón</em>",
+    "paragraphs": [
+      "El emblemático <strong>dragón del templo</strong> es una escenificación del <em>Apocalipsis de San Juan, Capítulo 12</em>, en donde el Arcángel San Miguel combate al dragón en nombre de la Virgen María. Esta representación única se ha convertido en uno de los íconos más queridos de la cultura parroquial.",
+      "Cada año, durante la <strong>fiesta patronal</strong>, el dragón que escupe fuego — luchando contra el arcángel — congrega a miles de vecinos y visitantes. La festividad del <em>8 de diciembre</em> inicia con el novenario de rosarios y concluye el 4 de febrero.",
+      "La fachada del templo, de inusual forma de <strong>hipérbola</strong>, evoca el manto protector de la Virgen María. Originalmente contaba con una vidriera de <em>110 m²</em>, obra del artista <strong>Bert Glauner</strong>, que decoraba la parte superior del edificio."
+    ],
+    "image": "https://images.unsplash.com/photo-1548625361-58a9b86aa83b?w=700&q=85",
+    "badge": "Fiesta Patronal · 8 de Diciembre"
+  },
+  "features": {
+    "overline": "Identidad parroquial",
+    "title": "Patrimonio vivo de la comunidad",
+    "items": [
+      {
+        "id": 1,
+        "icon": "🏛️",
+        "title": "Arquitectura Hiperbólica",
+        "text": "La fachada del templo, renovada en el año 2000, adopta una forma de hipérbola que evoca el manto protector de la Virgen María, distinguiéndola como obra de arquitectura religiosa contemporánea."
+      },
+      {
+        "id": 2,
+        "icon": "🐉",
+        "title": "El Dragón del Apocalipsis",
+        "text": "Escenificación del Capítulo 12 del Apocalipsis de San Juan. La lucha entre San Miguel Arcángel y el dragón que escupe fuego es un ícono de la cultura parroquial y atrae a miles de fieles cada año."
+      },
+      {
+        "id": 3,
+        "icon": "🌽",
+        "title": "Cristo de Caña de Azúcar",
+        "text": "El Cristo de la Inmaculada, llegado en 2014, representa un Cristo vivo sin llagas. Elaborado en caña de azúcar y pintado con la técnica del maque y pigmentos naturales de tradición michoacana."
+      },
+      {
+        "id": 4,
+        "icon": "🍽️",
+        "title": "La Cenaduría",
+        "text": "Desde 1942, la cenaduría parroquial es uno de los espacios gastronómicos más entrañables de la capital. Enchiladas, corundas, tamales y antojitos que han reunido a generaciones de familias."
+      },
+      {
+        "id": 5,
+        "icon": "🎶",
+        "title": "Festividad del 8 de Diciembre",
+        "text": "La fiesta patronal inicia el 8 de diciembre con un novenario de rosarios y se extiende hasta el 4 de febrero, constituyendo la celebración religiosa más larga y participativa de la zona."
+      },
+      {
+        "id": 6,
+        "icon": "🤝",
+        "title": "Grupos Pastorales",
+        "text": "Catequesis, pastoral juvenil, Cáritas, ministros y coros conforman una comunidad pastoral vibrante que continúa la tradición de participación activa heredada desde los tiempos fundacionales."
+      }
+    ]
+  },
+  "info": {
+    "parish": {
+      "title": "Datos de la Parroquia",
+      "rows": [
+        {
+          "id": 1,
+          "label": "Nombre",
+          "value": "Parroquia Santa María de la Asunción"
+        },
+        {
+          "id": 2,
+          "label": "Diócesis",
+          "value": "Diócesis de Toluca"
+        },
+        {
+          "id": 3,
+          "label": "Dirección",
+          "value": "Centro, Toluca, Estado de México"
+        },
+        {
+          "id": 4,
+          "label": "Teléfono",
+          "value": "(722) 000-0000"
+        },
+        {
+          "id": 5,
+          "label": "Correo",
+          "value": "parroquia@ejemplo.mx"
+        },
+        {
+          "id": 6,
+          "label": "Erigida",
+          "value": "11 de junio de 1976"
+        }
+      ]
+    },
+    "territory": {
+      "title": "Jurisdicción Territorial",
+      "rows": [
+        {
+          "id": 1,
+          "label": "Norte",
+          "value": "Avenida México"
+        },
+        {
+          "id": 2,
+          "label": "Sur",
+          "value": "Avenida Acueducto"
+        },
+        {
+          "id": 3,
+          "label": "Oriente",
+          "value": "Avenida Olivares"
+        },
+        {
+          "id": 4,
+          "label": "Poniente",
+          "value": "Avenida Tata Vasco"
+        },
+        {
+          "id": 5,
+          "label": "1.er Párroco",
+          "value": "P. Francisco Sierra Nieto (1950–1991)"
+        },
+        {
+          "id": 6,
+          "label": "2.o Párroco",
+          "value": "P. José Reyes Flores Díaz (desde 17 jun 1991)"
+        }
+      ]
+    }
+  },
+  "chatbot": {
+    "emoji": "⛪",
+    "name": "Asistente Parroquial",
+    "subtitle": "Santa María de la Asunción",
+    "phone": "(722) 000-0000",
+    "welcomeMessage": "¡Hola! 👋 Soy el asistente de la <strong>Parroquia Santa María de la Asunción</strong>. ¿En qué puedo ayudarte hoy?"
+  },
+  "cenaduria": {
+    "heroBg": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=1800&q=90",
+    "heroOverline": "Parroquia - Morelia, Mich",
+    "heroTitle": "Cenaduria La Inmaculada",
+    "heroSub": "La mejor comida tipica de Michoacan cada noche",
+    "heroYear": "Tradicion desde 1942",
+    "aboutPre": "Establecimiento Tradicional",
+    "aboutTitle": "Sabor y tradicion en el corazon de Morelia",
+    "aboutText1": "Si eres de Morelia, sin duda que conoces una de las cenadurias mas populares de la ciudad: La Inmaculada, donde cada noche ofrecen la mejor comida tipica de Michoacan.",
+    "aboutText2": "Este tradicional establecimiento se encuentra en el Templo de La Inmaculada, ubicado en la calle Tejedores de Aranza, en la colonia Vasco de Quiroga, desde 1942. Fue en 1997 cuando iniciaron los trabajos de remodelacion.",
+    "aboutImg": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=900&q=85",
+    "antPre": "Lista Interminable",
+    "antTitle": "Nuestros Antojitos",
+    "antojitos": [
+      {
+        "id": 1,
+        "emoji": "🌮",
+        "name": "Enchiladas",
+        "desc": "Sencillas o con pollo"
+      },
+      {
+        "id": 2,
+        "emoji": "🫓",
+        "name": "Gorditas",
+        "desc": "Rellenas al gusto"
+      },
+      {
+        "id": 3,
+        "emoji": "🥙",
+        "name": "Pambazos",
+        "desc": "Receta tradicional"
+      },
+      {
+        "id": 4,
+        "emoji": "🥯",
+        "name": "Tamales y Corundas",
+        "desc": "Michoacanos autenticos"
+      },
+      {
+        "id": 5,
+        "emoji": "🍲",
+        "name": "Pozole",
+        "desc": "Caldo tradicional"
+      },
+      {
+        "id": 6,
+        "emoji": "🧀",
+        "name": "Quesadillas",
+        "desc": "Fritas o de comal"
+      },
+      {
+        "id": 7,
+        "emoji": "🥗",
+        "name": "Tostadas y Sopes",
+        "desc": "Con diversos toppings"
+      },
+      {
+        "id": 8,
+        "emoji": "🍩",
+        "name": "Bunuelos",
+        "desc": "Dulce tradicion moreliana"
+      },
+      {
+        "id": 9,
+        "emoji": "🥤",
+        "name": "Agua Fresca y Atole",
+        "desc": "Sabores de temporada"
+      },
+      {
+        "id": 10,
+        "emoji": "🍮",
+        "name": "Gelatinas y Cafe",
+        "desc": "Para endulzar la noche"
+      }
+    ],
+    "horPre": "Visitanos",
+    "horTitle": "Horarios de Atencion",
+    "horVeranoLabel": "Temporada de Verano",
+    "horVeranoTitle": "Lunes a Domingo",
+    "horVDay1": "Lunes - Viernes",
+    "horVTime1": "19:00 - 23:00",
+    "horVDay2": "Sabado - Domingo",
+    "horVTime2": "18:30 - 23:30",
+    "horInviernoLabel": "Temporada de Invierno",
+    "horInviernoTitle": "Todos los Dias",
+    "horIDay1": "Lunes - Domingo",
+    "horITime1": "18:30 - 23:00",
+    "designPre": "Arquitectura Contemporanea",
+    "designTitle": "Un templo de diseno moderno",
+    "designText": "El templo y subterraneo fueron creados por el arquitecto Bert Glauner, quien doto de modernismo a la construccion. Es uno de los unicos templos de arquitectura contemporanea con los que cuenta Morelia.",
+    "designImg": "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6?w=800&q=85",
+    "ctaPre": "Como llegar?",
+    "ctaTitle": "Ven a cenar con nosotros",
+    "ctaText": "Todo moreliano no puede negar que ha cenado al menos una vez en La Inmaculada. Antojitos a precios accesibles en un ambiente familiar y acogedor.",
+    "ctaAddr": "Tejedores de Aranza, Col. Vasco de Quiroga, Morelia",
+    "ctaMapsUrl": "https://maps.google.com/?q=Templo+La+Inmaculada+Morelia+Michoacan"
+  },
+  "blanquita": {
+    "heroBg": "https://images.unsplash.com/photo-1534723452862-4c874018d66d?w=1800&q=90",
+    "heroBadge": "Supermercado - Morelia",
+    "heroTitle": "Super La Blanquita",
+    "heroSub": "Tu supermercado de confianza en la colonia Vasco de Quiroga",
+    "rating": "4.2",
+    "ratingCount": "475 opiniones",
+    "address": "Tejedores de Aranza 317, Vasco de Quiroga, 58230 Morelia, Mich.",
+    "addressShort": "Tejedores de Aranza 317",
+    "phone": "443 314 2885",
+    "closeTime": "Cierra a las 9 p.m.",
+    "parking": "Disponible",
+    "aboutImg": "https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=900&q=85",
+    "aboutPre": "Tu tienda de confianza",
+    "aboutTitle": "Precios accesibles, calidad garantizada",
+    "aboutText1": "Super La Blanquita es el supermercado de referencia en la colonia Vasco de Quiroga, Morelia. Con mas de 475 clientes satisfechos y una calificacion de 4.2 estrellas, ofrece una amplia variedad de productos cotidianos a precios accesibles.",
+    "aboutText2": "Ubicado a pasos del Templo de La Inmaculada, en Tejedores de Aranza 317, cuenta con estacionamiento propio y personal amable que garantiza una experiencia de compra comoda y segura.",
+    "features": [
+      {
+        "emoji": "💰",
+        "title": "Precios Accesibles",
+        "desc": "Productos cotidianos al mejor precio del barrio, con ofertas y promociones frecuentes para toda la familia."
+      },
+      {
+        "emoji": "🛒",
+        "title": "Amplio Surtido",
+        "desc": "Encuentra todo lo que necesitas: abarrotes, frutas, verduras, lacteos, carnes y productos de limpieza."
+      },
+      {
+        "emoji": "🅿️",
+        "title": "Estacionamiento",
+        "desc": "Contamos con estacionamiento propio para que tu visita sea comoda y sin complicaciones."
+      },
+      {
+        "emoji": "❤️",
+        "title": "Excelente Servicio",
+        "desc": "Personal amable y atento. Medidas de sanidad eficientes para tu tranquilidad y la de tu familia."
+      },
+      {
+        "emoji": "⏰",
+        "title": "Horario Amplio",
+        "desc": "Abierto todos los dias de la semana hasta las 9 p.m. para que puedas comprar cuando mas lo necesitas."
+      },
+      {
+        "emoji": "📍",
+        "title": "Ubicacion Ideal",
+        "desc": "En el corazon de la colonia Vasco de Quiroga, a pasos del Templo de La Inmaculada y la Cenaduria."
+      }
+    ],
+    "reviews": [
+      {
+        "stars": 5,
+        "text": "Excelente servicio y buenos precios, medidas de sanidad eficientes.",
+        "author": "Cliente satisfecho"
+      },
+      {
+        "stars": 4,
+        "text": "Supermercado con precios accesibles y surtido regular a bueno.",
+        "author": "Vecino frecuente"
+      },
+      {
+        "stars": 5,
+        "text": "Buen lugar para adquirir productos cotidianos economicos.",
+        "author": "Cliente habitual"
+      }
+    ],
+    "horTitle1": "Lunes a Domingo",
+    "horSub1": "Abierto todos los dias del ano",
+    "horDay1": "Lunes - Domingo",
+    "horTime1": "8:00 AM - 9:00 PM",
+    "openLabel": "Abierto ahora",
+    "horTitle2": "Contacto directo",
+    "horSub2": "Llamanos para mas informacion",
+    "ctaTitle": "Encuentranos en Morelia",
+    "ctaText": "A pasos del Templo de La Inmaculada. Facil acceso con estacionamiento propio para tu comodidad.",
+    "mapsUrl": "https://maps.app.goo.gl/fa95b8nrRY9iimcm8"
+  },
+  "noticias": {
+    "heroBg": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1800&q=90",
+    "heroPre": "Informacion - Comunidad",
+    "heroTitle": "Centro de Noticias",
+    "heroSub": "Mantente informado sobre nuestra parroquia, la Arquidiocesis y la Iglesia Universal",
+    "parroquiaPre": "Vida Parroquial",
+    "parroquiaTitle": "Noticias de la Parroquia",
+    "parroquia": [
+      {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1543342384-1f1350e27861?w=700&q=80",
+        "category": "Liturgia",
+        "isLive": false,
+        "date": "Mayo 2025",
+        "title": "Horarios de Misas para Semana Santa 2025",
+        "text": "Consulta los horarios especiales de celebraciones liturgicas durante la Semana Mayor. Triduo Pascual, Via Crucis y Vigilia Pascual.",
+        "source": "Parroquia La Inmaculada",
+        "link": ""
+      },
+      {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=700&q=80",
+        "category": "Formacion",
+        "isLive": false,
+        "date": "Abril 2025",
+        "title": "Nuevos Grupos de Catequesis para Ninos y Jovenes",
+        "text": "Inscripciones abiertas para los nuevos grupos de catequesis. Cupos limitados. Registro en la oficina parroquial.",
+        "source": "Parroquia La Inmaculada",
+        "link": ""
+      },
+      {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=700&q=80",
+        "category": "Comunidad",
+        "isLive": false,
+        "date": "Abril 2025",
+        "title": "Jornada de Caridad: Colecta de Alimentos",
+        "text": "Este sabado realizaremos una jornada solidaria de recoleccion de alimentos no perecederos para las familias mas necesitadas de la colonia.",
+        "source": "Caritas Parroquial",
+        "link": ""
+      },
+      {
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1548625149-720754860eea?w=700&q=80",
+        "category": "Eventos",
+        "isLive": false,
+        "date": "Marzo 2025",
+        "title": "Concierto de Musica Sacra en el Templo",
+        "text": "Una velada musical especial con el coro parroquial y artistas invitados. Entrada libre para toda la familia.",
+        "source": "Parroquia La Inmaculada",
+        "link": ""
+      }
+    ],
+    "arquidiocesisPre": "Arquidiocesis de Morelia",
+    "arquidiocesisTitle": "Noticias de la Arquidiocesis",
+    "arquidiocesis": [
+      {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6?w=700&q=80",
+        "category": "Pastoral",
+        "isLive": false,
+        "date": "Mayo 2025",
+        "title": "Mensaje del Arzobispo de Morelia para la Semana de la Familia",
+        "text": "Su Eminencia dirige un mensaje a las familias morelianas invitandolas a fortalecer los vinculos familiares desde la fe cristiana.",
+        "source": "Arquidiocesis de Morelia",
+        "link": "https://arquidiocesisdemorelia.mx"
+      },
+      {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1605640840605-14ac1855827b?w=700&q=80",
+        "category": "Formacion",
+        "isLive": false,
+        "date": "Abril 2025",
+        "title": "Encuentro Diocesano de Jovenes en Morelia",
+        "text": "Mas de 2,000 jovenes se reunieron en el Estadio Morelos para el encuentro diocesano anual con el lema 'Sal y ve'. Gran testimonio de fe.",
+        "source": "Arquidiocesis de Morelia",
+        "link": "https://arquidiocesisdemorelia.mx"
+      },
+      {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=700&q=80",
+        "category": "Institucional",
+        "isLive": false,
+        "date": "Marzo 2025",
+        "title": "Nueva Comision Arquidiocesana de Comunicacion Social",
+        "text": "La Arquidiocesis presenta su nueva comision de comunicacion social con el objetivo de fortalecer la presencia de la Iglesia en los medios digitales.",
+        "source": "Arquidiocesis de Morelia",
+        "link": "https://arquidiocesisdemorelia.mx"
+      }
+    ],
+    "iglesiaPre": "Iglesia Universal",
+    "iglesiaTitle": "Noticias de Iglesia",
+    "iglesia": [
+      {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1548625149-720754860eea?w=700&q=80",
+        "category": "Santa Sede",
+        "isLive": false,
+        "date": "Mayo 2025",
+        "title": "El Papa Francisco llama a la paz en el mundo",
+        "text": "En su mensaje dominical del Angelus, el Santo Padre exhorto a la comunidad internacional a buscar soluciones pacificas a los conflictos vigentes.",
+        "source": "Vatican News",
+        "link": "https://www.vaticannews.va/es.html"
+      },
+      {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6?w=700&q=80",
+        "category": "Mexico",
+        "isLive": false,
+        "date": "Abril 2025",
+        "title": "La Iglesia en Mexico celebra el Ano Jubilar 2025",
+        "text": "La Conferencia del Episcopado Mexicano coordina las actividades del Ano Santo. Miles de peregrinos visitan las basilicas y santuarios de todo el pais.",
+        "source": "CEM - Conferencia Episcopal",
+        "link": "https://www.cem.org.mx"
+      },
+      {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=700&q=80",
+        "category": "Doctrina",
+        "isLive": false,
+        "date": "Abril 2025",
+        "title": "Nueva exhortacion apostolica sobre la vida familiar",
+        "text": "El Dicasterio para los Laicos publica nuevas orientaciones pastorales sobre el acompanamiento de las familias en el mundo contemporaneo.",
+        "source": "Vatican News",
+        "link": "https://www.vaticannews.va/es.html"
+      },
+      {
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=700&q=80",
+        "category": "Mision",
+        "isLive": false,
+        "date": "Marzo 2025",
+        "title": "Informe Anual de Obras Misionales Pontificias",
+        "text": "Las Obras Misionales presentan su informe anual destacando el crecimiento de las misiones en Africa, Asia y America Latina.",
+        "source": "Vatican News",
+        "link": "https://www.vaticannews.va/es.html"
+      }
+    ]
+  }
+}
