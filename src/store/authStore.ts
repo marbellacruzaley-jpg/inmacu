@@ -1,0 +1,36 @@
+import { create } from 'zustand';
+import { persist } from 'zustand/middleware';
+
+interface AuthState {
+  token: string | null;
+    usuario: { username: string } | null;
+      isAuthenticated: boolean;
+        login: (token: string, usuario: { username: string }) => void;
+          logout: () => void;
+          }
+
+          export const useAuthStore = create<AuthState>()(
+            persist(
+                (set) => ({
+                      token: null,
+                            usuario: null,
+                                  isAuthenticated: false,
+                                        login: (token, usuario) =>
+                                                set({
+                                                          token,
+                                                                    usuario,
+                                                                              isAuthenticated: true,
+                                                                                      }),
+                                                                                            logout: () =>
+                                                                                                    set({
+                                                                                                              token: null,
+                                                                                                                        usuario: null,
+                                                                                                                                  isAuthenticated: false,
+                                                                                                                                          }),
+                                                                                                                                              }),
+                                                                                                                                                  {
+                                                                                                                                                        name: 'auth-storage',
+                                                                                                                                                            }
+                                                                                                                                                              )
+                                                                                                                                                              );
+                                                                                                                                                              
